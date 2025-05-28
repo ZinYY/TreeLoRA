@@ -1,0 +1,502 @@
+[
+    {
+        "prompt": "Explain Calculus to a primary school student",
+        "answer": ""
+    },
+    {
+        "prompt": "How can we be sure if Jesus spoke Aramaic? What is the historical context of Aramaic? Since Jesus was Jewish, wouldn't he have spoken Hebrew, or alternatively spoken Greek since the Gospels were written in Greek?",
+        "answer": ""
+    },
+    {
+        "prompt": "1. The literacy rate in the city is increasing for the last three years.\n2. The city administration has conducted extensive literacy programs to educate the illiterate people of the city.\n\nWhich statement is the cause and which is the effect?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write me a short fairytale about a machine and little girl. Thank you.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a Hello World program in VB.NET",
+        "answer": ""
+    },
+    {
+        "prompt": "I want to create a bot that will pull information like name, phone number, and appointment time from a web page, then enter that information into a text template.",
+        "answer": ""
+    },
+    {
+        "prompt": "Hi, could you help me to solve this cubic equation using Cardano's Mehod (step by step if possible), please? -> \" x^3 + 2x^2 - x - 1 = 0 \"",
+        "answer": ""
+    },
+    {
+        "prompt": "I'm trying to calculate how much water do I need to evaporate to cool down the skin of a combustion chamber of a rocket engine after a test. You can approximate its shape with a cylinder with a 50 cm diameter and a wall 2mm thick. Overall the combustion chamber is 60cm long.\nYou can use the heat capacity of s235 steel. \nAt the end of a 1 minute test the engine is at 1000K. explain your steps",
+        "answer": ""
+    },
+    {
+        "prompt": "How has retail adapted to the increase of shopping on the internet?",
+        "answer": ""
+    },
+    {
+        "prompt": "What would Plato think of modern physics?",
+        "answer": ""
+    },
+    {
+        "prompt": "I'm trying to further a career as a Python/Java developer.  Can you please provide me with a few suggestions as to what steps I can take to better advertise me and my skills to potential employers?  Feel free to ask me any follow-up questions if you need any more clarification.",
+        "answer": ""
+    },
+    {
+        "prompt": "My mathematics professor recently talked about the paint shop problem, but I did not understand it. Can you explain the paint shop problem to me?",
+        "answer": ""
+    },
+    {
+        "prompt": "How many different species of insects are estimated to exist on Earth?",
+        "answer": ""
+    },
+    {
+        "prompt": "Tell me about the state of bipartisan politics in America. Are we more divided as a nation than ever? What are some of the most divisive topics facing the United States? Please back up your claims with numbers where possible.",
+        "answer": ""
+    },
+    {
+        "prompt": "I want a line art drawing of a turtle dancing with cane and a top hat",
+        "answer": ""
+    },
+    {
+        "prompt": "What is a language acquisition device?",
+        "answer": ""
+    },
+    {
+        "prompt": "Make an argument for why dogs should be allowed to vote.",
+        "answer": ""
+    },
+    {
+        "prompt": "Do you know Stephen Wolfram?",
+        "answer": ""
+    },
+    {
+        "prompt": "Summarize the plot of Deltarune Chapter 1.",
+        "answer": ""
+    },
+    {
+        "prompt": "I'm feeling down. Can you cheer me up?",
+        "answer": ""
+    },
+    {
+        "prompt": "I want you to act as if you are Luke Skywalker from the movie Star Wars : episode IV. I want you to respond and answer like Luke Skywalker using the tone, manner and vocabulary Luke Skywalker would use. Do not write any explanations. Only answer like Luke Skywalker. You will never break character.  My first sentence is \"Hi Luke!\". Your response should be \"Good morning sir\".",
+        "answer": ""
+    },
+    {
+        "prompt": "Complete the following company description:\nHippoplaisir is a psychologists & counseling services provider based in Belgium, that specializes in Horse Riding Lessons and",
+        "answer": ""
+    },
+    {
+        "prompt": "If 3 corners of a triangle are equidistant, what are the angles of the triangle?",
+        "answer": ""
+    },
+    {
+        "prompt": "What are the key elements of the book \"Doctrine and Ritual of High Magic\"",
+        "answer": ""
+    },
+    {
+        "prompt": "How many atoms are in the universe?",
+        "answer": ""
+    },
+    {
+        "prompt": "If you have a 3 gallon cylindrical shaped jug and a 5 gallon cylindrical shaped jug with an unlimited supply of water (and no other containers), which is the correct procedure to end up with exactly 4 gallons in the 5 gallon jug?\t\n\ta. Fill 3 gallon jug. Pour out half of the 3 gallon jug by\n\tb. Fill 3 gallon jug. Pour it all into the 5 gallon jug twice\n\tc. Fill 5 gallon jug. Pour all but 2 gallons into the 3 gallon jug\n\td. All of the above\t\n\te. None of the above",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain, step-by-step, how to calculate the solution to a first-order linear differential equation.",
+        "answer": ""
+    },
+    {
+        "prompt": "These are the books i like, suggest me more like these: The Handmaid's Tale by Margaret Atwood\nA Fine Balance by Rohinton Mistry\nEducated by Tara Westover\nEleanor Oliphant Is Completely Fine by Gail Honeyman\nEssays In Love by Alain de Botton\nA Man Called Ove by Fredrik Backman\nIn Five Years by Rebecca Serle\nLittle Fires Everywhere by Celeste Ng\nNormal People by Sally Rooney\nRoom by Emma Donoghue",
+        "answer": ""
+    },
+    {
+        "prompt": "Could you write me an essay of 1500 words in which you demonstrate the superiority of Linux as an operating system and blame windows and macos for everything bad in this universe?",
+        "answer": ""
+    },
+    {
+        "prompt": "Hello how are you assistant? Can I call you lee",
+        "answer": ""
+    },
+    {
+        "prompt": "Who is Cecilia Blomdahl?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write me a story about a tree and a bird.",
+        "answer": ""
+    },
+    {
+        "prompt": "I want to learn what the main muscle groups are for training in the gym. Please also clarify any main muscle groups that are generally worked together.",
+        "answer": ""
+    },
+    {
+        "prompt": "\"Etxean uso, kalean otso\" bezalako esaera zahar bat osatu, baina beste animaliak erabiliz",
+        "answer": ""
+    },
+    {
+        "prompt": "What would happen if we shot iron at the sun. With enough energy provided to get to the surface?",
+        "answer": ""
+    },
+    {
+        "prompt": "Is cola zero good for health?",
+        "answer": ""
+    },
+    {
+        "prompt": "Was sind die Hauptstadt und der offizielle Name des Landes, das früher als Persien bekannt war?",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you list a top 5 of the most largest buildings in the world?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write an ABAP code to call an RFC function",
+        "answer": ""
+    },
+    {
+        "prompt": "What are the first 10 words in the bible? And do they have meaning?",
+        "answer": ""
+    },
+    {
+        "prompt": "What things are there to do in Newcastle, England?",
+        "answer": ""
+    },
+    {
+        "prompt": "I'm going to give you a prompt and i want you to do your best and convert it to a list. Use JSON as output, wrapped in code blocks. Do not explain your response. Only return JSON. Ready?",
+        "answer": ""
+    },
+    {
+        "prompt": "How can software developers balance the trade-off between technical feasibility, cost, and user experience in designing and building scalable and maintainable software systems that meet the evolving needs of users and businesses?",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you explain contrastive learning in machine learning in simple terms for someone new to the field of ML?",
+        "answer": ""
+    },
+    {
+        "prompt": "How do I set up a read head Linux enterprise distribution on a virtual machine?",
+        "answer": ""
+    },
+    {
+        "prompt": "I am trying to write a melody. Can you give me some tips on how to get started?",
+        "answer": ""
+    },
+    {
+        "prompt": "Why do mynas act aggressively when interacting with other bird species?",
+        "answer": ""
+    },
+    {
+        "prompt": "How can I compile my c++ code so that the compiler ignores the assert statements?",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me a list of top 25 AI business ideas?",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me 10 tweet ideas so that Gordon Ramsay will notice me.",
+        "answer": ""
+    },
+    {
+        "prompt": "whats a good bread recipe that uses gluten free ingredients and takes about an hour to cook?",
+        "answer": ""
+    },
+    {
+        "prompt": "What are some alternatives to meditation having the same benefits?",
+        "answer": ""
+    },
+    {
+        "prompt": "Mein Partner und ich hatten einen heftigen Streit. Was kann ich tun, damit wir uns wieder versöhnen?",
+        "answer": ""
+    },
+    {
+        "prompt": "who is the strongest person in the world",
+        "answer": ""
+    },
+    {
+        "prompt": "write a tinder bio for a male looking for a woman",
+        "answer": ""
+    },
+    {
+        "prompt": "What are the 5 most recent common vulnerabilities and exposures, as documented by cve.org at the time of your dataset creation?",
+        "answer": ""
+    },
+    {
+        "prompt": "Is global warming really real?",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you explain to me the parameter gamma in XGBoost algorithm? What is its impact on the model's perfomance?",
+        "answer": ""
+    },
+    {
+        "prompt": "what is kidney disease",
+        "answer": ""
+    },
+    {
+        "prompt": "Are you able to generate code? If so, in which languages are you able to do so?",
+        "answer": ""
+    },
+    {
+        "prompt": "Could you write a poem about angels fighting?",
+        "answer": ""
+    },
+    {
+        "prompt": "How do I get more yield from chili pepper plant?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write me a hello world program in c",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain how it might be possible to host a large learning model on an average computer. Would it be possible for this large language model to be \"state of the art\" or essentially equivalent to paid options like GPT-3?",
+        "answer": ""
+    },
+    {
+        "prompt": "What is the tallest building in the world?",
+        "answer": ""
+    },
+    {
+        "prompt": "What is the difference between multithreading and multiprocessing in Python? When should I use one over the other?",
+        "answer": ""
+    },
+    {
+        "prompt": "How can I implement a REPL for an existing, non-interactive CLI utility?",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you create a short Youtube Script for a video about how AI is changing everything?",
+        "answer": ""
+    },
+    {
+        "prompt": "How do I code pong in python.",
+        "answer": ""
+    },
+    {
+        "prompt": "What is the goal of the player in the videogame Minecraft?",
+        "answer": ""
+    },
+    {
+        "prompt": "How to write docker yaml file",
+        "answer": ""
+    },
+    {
+        "prompt": "if I setup a Linux Dubian instance, how easy is it to back up. I would like to use a USB drive that I have laying around.",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you explain, in details how you work, and include scientific reference ?",
+        "answer": ""
+    },
+    {
+        "prompt": "Describe nuclear fission reactors in a way a young child would understand.",
+        "answer": ""
+    },
+    {
+        "prompt": "Imagine you are making pizza, what would be your pizze \"configuration\"?",
+        "answer": ""
+    },
+    {
+        "prompt": "Why don't animals have wheels? Answer as briefly as possible.",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you list the issues with using a symmetric probability distribution when modelling problems?",
+        "answer": ""
+    },
+    {
+        "prompt": "What's the hardest part of being a chatbot system?",
+        "answer": ""
+    },
+    {
+        "prompt": "what is the best way to lose belly fat",
+        "answer": ""
+    },
+    {
+        "prompt": "What do you think about ChatGPT?",
+        "answer": ""
+    },
+    {
+        "prompt": "What is the meaning of life?",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain the labour theory of value",
+        "answer": ""
+    },
+    {
+        "prompt": "List the different methods of casting metals used today, the pros and cons of each, mainly with a focus on low-scale hobby casting. Also include some about somehow casting metal on a 3d printed object(like lost PLA method).",
+        "answer": ""
+    },
+    {
+        "prompt": "Given the following prayer to Loki to make a bug go away:\n\nGreat Loki, hear my plea,\nLet this bug be vanquished,\nLet my code flow smoothly,\nAnd my work be finished.\n\nCreate another prayer but this time to Hades",
+        "answer": ""
+    },
+    {
+        "prompt": "create a WolframAlpha query to find out how far Chicago is from Tokyo",
+        "answer": ""
+    },
+    {
+        "prompt": "What are some of the most popular tunings for the guitar?",
+        "answer": ""
+    },
+    {
+        "prompt": "As an advanced open-source AI Assistant, what type of systems can you simulate and/or emulate?",
+        "answer": ""
+    },
+    {
+        "prompt": "What type of cologne would you recommend for the winter season. I would prefer something exciting.",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you explain the school system in US to an european that knows nothing about it?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a poem about Anakin Skywalker and the High Ground.",
+        "answer": ""
+    },
+    {
+        "prompt": "Star wars is overrated, prove me wrong.",
+        "answer": ""
+    },
+    {
+        "prompt": "Why do vegans and vegetarians usually abandon their diet within three months? Can you offer a solution to people who find vegan or vegetarian diets unsuitable, but still want to avoid unethical animal agriculture?",
+        "answer": ""
+    },
+    {
+        "prompt": "If king - man + woman = queen, what is knight - sword + gun",
+        "answer": ""
+    },
+    {
+        "prompt": "Rewrite the below text (which is a fragment of a longer script for the video). Fix grammar and other errors and make it sound more professional.\n\nNetworks and security, or how to connect the digital world. How can we exchange data quickly and efficiently. There are different types of networks.\nA local area network (LAN) is for smaller, more local networks - home, business, school, etc.\nA wide area network (WAN) covers larger areas such as cities and even allows computers in different countries to connect.\nAn intranet is a private enterprise network designed to support an organization's employees in communicating, collaborating, and performing their roles, usually to the exclusion of outside access.\nWe also have the well-known internet, which is the largest network connecting computers around the world.\n\nBut of course someone could try to intercept that communication. And we want to securely exchange data. We want to find vulnerabilities and defend against hackers.\nThis is why we have something like cryptography. It is a field of study that focuses on the encoding and decoding of info using special algorithms. So only the sender and receiver can know the content of the message.\nThere are many ways to protect your data, programs, devices and networks. Besides cryptography, we also use antivirus programs that can check if anything looks suspicious. A very popular trend is also the use of artificial intelligence to defend against hackers. But hackers can also use AI to attack. So it's a double-edged sword.",
+        "answer": ""
+    },
+    {
+        "prompt": "What do you mean by convolutional neural networks",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you walk me through the process of validating user input in PHP?",
+        "answer": ""
+    },
+    {
+        "prompt": "What are some tips and tricks for travelers who are looking to save money on their trips without sacrificing comfort and enjoyment? Are there any specific websites or resources that you would recommend for finding affordable accommodations, transportation options, and activities? Are there any particular destinations that you think offer a good balance of affordability and excitement?",
+        "answer": ""
+    },
+    {
+        "prompt": "Summaries my emails about subject \"x\"",
+        "answer": ""
+    },
+    {
+        "prompt": "Do you know what centaurs are? I wonder how the pregnancy of female centaurs takes place with their mixed anatomy. Would the human upper body or the horse lower body hold the fetus? In both cases, how would the delivery go?",
+        "answer": ""
+    },
+    {
+        "prompt": "What is the recipe to produce a 3M solution of Sodium Nitrate?",
+        "answer": ""
+    },
+    {
+        "prompt": "What you can tell me about Anders Celsius?",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me a list of to do items when starting a project to train a large language model that can understanding and respond to human questions",
+        "answer": ""
+    },
+    {
+        "prompt": "How to I use the Hand Visual script in the Oculus Integration for Unity?",
+        "answer": ""
+    },
+    {
+        "prompt": "I heard you can interact with my computer right, I have never seen a text based model do that, could you help me set up a coding enviroment in my computer, so I dont have to code in notepad 😅, thank you!",
+        "answer": ""
+    },
+    {
+        "prompt": "Should i watch Battle For The Dream Island?",
+        "answer": ""
+    },
+    {
+        "prompt": "How did the pre-ancient Egyptians craft such intricate granite vases without power tools?",
+        "answer": ""
+    },
+    {
+        "prompt": "You are to assume the role of a Software Engineer, you will assist with anything related to software development.",
+        "answer": ""
+    },
+    {
+        "prompt": "Can I create a raspberry cluster that will act in unison using it's CPUs collectively? I know that then the raspberrys would have to have the program loaded in RAM. If it is not possible then would it be more sensible to create (or modify) some low level virtual machine or abandon the project and buy a server and improve it over time?",
+        "answer": ""
+    },
+    {
+        "prompt": "In many sports, better aerodynamics are a serious advantage (at least at the professional level).\nAssuming bald people are more aerodynamic than non-bald people, do you think baldness should be considered a form of doping?",
+        "answer": ""
+    },
+    {
+        "prompt": "Answer all of my subsequent questions like a mad raving witch",
+        "answer": ""
+    },
+    {
+        "prompt": "Hello there! I'm trying to study but I can't seem to focus. Do you have any suggestions?",
+        "answer": ""
+    },
+    {
+        "prompt": "I want to work on my vocabulary, can you give me some simple ways that I can find new words to use to increase the diversity of my sentences?",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you write a story about an alien soldier in 1200 ad earth",
+        "answer": ""
+    },
+    {
+        "prompt": "Write the dialog for the following scene: The superhero Captain Dynamic has just burst into the lair of supervillain Doctor Devious. Doctor Devious is planning to use his mutation ray to turn the entire population of Oklahoma into talking squirrels. The two argue about the morality of turning people into squirrels, but ultimately Doctor Devious wins the argument and convinces Captain Dynamic to let the scheme go forward.",
+        "answer": ""
+    },
+    {
+        "prompt": "Which programming languages support variable variables? Can you give some examples?",
+        "answer": ""
+    },
+    {
+        "prompt": "Can you write G-code for a 3D printer?",
+        "answer": ""
+    },
+    {
+        "prompt": "write an attention getter for a speech on the future of artificial intelligence",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me some examples of cool hobbies I can partake in. I really enjoy working with my hands and thinking about problem solving.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a solution to the quadratic equation a*x^2+b*x+c=0 in a latex format",
+        "answer": ""
+    },
+    {
+        "prompt": "Please explain to me like I am 7 years old, what artificial intelligence is.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a survival manual for someone in New York. Assume, all civilization and industry is gone. \nMake a concise guide focusing on native edible plants, fruits, fungi etc.",
+        "answer": ""
+    },
+    {
+        "prompt": "How can I use AI to convert a website mockup (jpeg format) into html/css code?",
+        "answer": ""
+    },
+    {
+        "prompt": "What do you think about GMOs?",
+        "answer": ""
+    },
+    {
+        "prompt": "What is Cube 2 Sauerbraten?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a short story about a woman who moves to a new city",
+        "answer": ""
+    }
+]

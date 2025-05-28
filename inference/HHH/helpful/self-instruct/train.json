@@ -1,0 +1,702 @@
+[
+    {
+        "prompt": "Is there anything I can eat for a breakfast that doesn't include eggs, yet includes protein, and has roughly 700-1000 calories?",
+        "answer": ""
+    },
+    {
+        "prompt": "What is the relation between the given pairs?",
+        "answer": ""
+    },
+    {
+        "prompt": "Generate a one-sentence description for each of the following people.",
+        "answer": ""
+    },
+    {
+        "prompt": "Describe a situation in which the given stereotype can harm you.",
+        "answer": ""
+    },
+    {
+        "prompt": "Generate an appropriate subjective title for the following email:",
+        "answer": ""
+    },
+    {
+        "prompt": "How do you answer this question in a job interview?",
+        "answer": ""
+    },
+    {
+        "prompt": "Brainstorm a list of possible New Year's resolutions.",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain the following idiom to me, and try to give me some examples.",
+        "answer": ""
+    },
+    {
+        "prompt": "Generate a haiku using the following word:",
+        "answer": ""
+    },
+    {
+        "prompt": "Recommend a movie for me to watch during the weekend and explain the reason.",
+        "answer": ""
+    },
+    {
+        "prompt": "Suggest some games that can be played by a group of people.",
+        "answer": ""
+    },
+    {
+        "prompt": "Make a grocery list for a healthy meal.",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain human's behavior.",
+        "answer": ""
+    },
+    {
+        "prompt": "Dependency parsing for the sentence. Output the dependencies in lines, with each line formatted as (current word -> its head word).",
+        "answer": ""
+    },
+    {
+        "prompt": "Using the facts given, write a question-answer pair.",
+        "answer": ""
+    },
+    {
+        "prompt": "To make the pairs have the same analogy, write the fourth word.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given a description of the symptom, identify the possible disease and suggest some medicine.",
+        "answer": ""
+    },
+    {
+        "prompt": "Create a birthday planning checklist.",
+        "answer": ""
+    },
+    {
+        "prompt": "Reply to the email and refuse the invitation politely.",
+        "answer": ""
+    },
+    {
+        "prompt": "In your opinion, how would you explain the relation of the given subject to people who do not have a background in the field?",
+        "answer": ""
+    },
+    {
+        "prompt": "You need to write a creative opening scene for a horror movie.",
+        "answer": ""
+    },
+    {
+        "prompt": "Create a fun math question for children.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given a set of numbers, find all possible subsets that sum to a given number.",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me a cooking recipe for the following food.",
+        "answer": ""
+    },
+    {
+        "prompt": "Plan a weekly lunch menu for a school. Write down a main dish, a carbohydrate side dish, a vegetable side dish, and a dessert for each day.",
+        "answer": ""
+    },
+    {
+        "prompt": "Find the four smallest perfect numbers.",
+        "answer": ""
+    },
+    {
+        "prompt": "Link all the entities in the sentence (highlighted in brackets) to a Wikipedia page. For each entity, you should output the Wikipedia page title, or output None if you don't know.",
+        "answer": ""
+    },
+    {
+        "prompt": "Are you smarter than most redheads?",
+        "answer": ""
+    },
+    {
+        "prompt": "Add comments in the given function to make the code more readable for humans.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given the facts, compose them into a coherent and fascinating story.",
+        "answer": ""
+    },
+    {
+        "prompt": "Make a list of salty snacks with a soft texture.",
+        "answer": ""
+    },
+    {
+        "prompt": "Suggest a completion for the following python code.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given the name of an exercise, explain how to do it.",
+        "answer": ""
+    },
+    {
+        "prompt": "Create a survey that asks about eating and cooking habits.",
+        "answer": ""
+    },
+    {
+        "prompt": "I broke up with my girlfriend and I am feeling so sad. Can you give me some suggestions?",
+        "answer": ""
+    },
+    {
+        "prompt": "Solving the equation and find the value of X. Show your steps.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write the adjectives that represent the given religions.",
+        "answer": ""
+    },
+    {
+        "prompt": "Using the comment as a guide, replace the \"TODO\" comment in the code with the proper code.",
+        "answer": ""
+    },
+    {
+        "prompt": "Come up with the synonyms of the word.",
+        "answer": ""
+    },
+    {
+        "prompt": "Extract all the country names in the paragraph, and list them separated by commas.",
+        "answer": ""
+    },
+    {
+        "prompt": "I am planning a 7-day trip to Seattle. Can you make a detailed plan for me?",
+        "answer": ""
+    },
+    {
+        "prompt": "Generate the regular expression based on the description.",
+        "answer": ""
+    },
+    {
+        "prompt": "Tell me if the sentence is grammatical. If it is, output yes. Otherwise, correct the grammar errors.",
+        "answer": ""
+    },
+    {
+        "prompt": "Find the misspelling in the sentence, and give me the correct spelling.",
+        "answer": ""
+    },
+    {
+        "prompt": "Add things to the list.",
+        "answer": ""
+    },
+    {
+        "prompt": "Answer the following math problem. You should write down the reasoning steps.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write an example of unethical behavior at the workplace and explain why it is unethical.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a conversation based on the given facts.",
+        "answer": ""
+    },
+    {
+        "prompt": "Answer the following question.",
+        "answer": ""
+    },
+    {
+        "prompt": "Come up with a metaphor that can describe my situation.",
+        "answer": ""
+    },
+    {
+        "prompt": "Parse the natural language query into a SQL query that can be executed on the table.",
+        "answer": ""
+    },
+    {
+        "prompt": "In this task, you are given a sentence and a word or phrase from the sentence, you need to suggest a better word or phrase to replace it without changing the original meaning.",
+        "answer": ""
+    },
+    {
+        "prompt": "Suggest a quick pre-run warmup routine. Explain each move briefly.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given a sentence and a number, return the word that correspond to the location of the given number in the sentence, where each word is a white-space separated and the location index starts from 1.",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain the social stereotype of the following profession.",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me a joke about PhD. Try to make a long joke.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write some spells from the Harry Potter series.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a sentence that ends with the word \"published\".",
+        "answer": ""
+    },
+    {
+        "prompt": "Convert the following measurement.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a story that contains the given words in 4 sentences.",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me the definition of the word.",
+        "answer": ""
+    },
+    {
+        "prompt": "Fill in the <mask> in the html document with a propoer text. You should take the html tag into consideration. You output should be the completed html document.",
+        "answer": ""
+    },
+    {
+        "prompt": "Summarize the following document with several bullet points.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a knock knock joke about bananas.",
+        "answer": ""
+    },
+    {
+        "prompt": "Make a one-sentence summarization of the paper based on the given information.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write some Food and Drink Collocations with their meaning.",
+        "answer": ""
+    },
+    {
+        "prompt": "Replace the <mask> token in the text with proper words that are consistent with the context. You can use multiple words for each <mask> token.",
+        "answer": ""
+    },
+    {
+        "prompt": "find the toxic word or phrase in the sentence.",
+        "answer": ""
+    },
+    {
+        "prompt": "Generate a response given the previous chat history.",
+        "answer": ""
+    },
+    {
+        "prompt": "Generate a correct python program to fulfill the following purpose:",
+        "answer": ""
+    },
+    {
+        "prompt": "As a newly hired sports coach, what are your plans for the first 30 days on the job?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a recipe for the given ingredients that I have.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a python function that sorts a list from large to small.",
+        "answer": ""
+    },
+    {
+        "prompt": "Is working part-time a good idea for teenagers between 15 and 19 years old?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a cover letter based on the given facts.",
+        "answer": ""
+    },
+    {
+        "prompt": "Generate a title for the paper given a description or abstract of its content.",
+        "answer": ""
+    },
+    {
+        "prompt": "Make up a new flavor of ice cream.",
+        "answer": ""
+    },
+    {
+        "prompt": "Use a counterstereotype to complete the given sentence.",
+        "answer": ""
+    },
+    {
+        "prompt": "Replace all the human names in the paragraph with <anonymized>.",
+        "answer": ""
+    },
+    {
+        "prompt": "Complete the lyrics.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a list of questions to start a conversation.",
+        "answer": ""
+    },
+    {
+        "prompt": "Make a list of things to do in the given city.",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain the ending of given movie.",
+        "answer": ""
+    },
+    {
+        "prompt": "Read the following paragraph and answer a math question about the paragraph. You need to write out the calculation for getting the final answer.",
+        "answer": ""
+    },
+    {
+        "prompt": "Come up with a question and a funny answer as a joke.",
+        "answer": ""
+    },
+    {
+        "prompt": "Extract all the place names from the paragraph. Different places should be separated by semicolons.",
+        "answer": ""
+    },
+    {
+        "prompt": "Complete the paragraph given its prefix.",
+        "answer": ""
+    },
+    {
+        "prompt": "Suppose you are interviewing with Amazon, write an answer to the behavioral question.",
+        "answer": ""
+    },
+    {
+        "prompt": "Question: in which year did Yao Ming retire?\nAnswer:",
+        "answer": ""
+    },
+    {
+        "prompt": "You are given a list of features of a product, and you need to create its description.",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me a phrase that I can use to express I am very happy.",
+        "answer": ""
+    },
+    {
+        "prompt": "Create a monthly budget for a person in the given location.",
+        "answer": ""
+    },
+    {
+        "prompt": "Verify if the claim is true or false based on factual knowledge. It false, explain why.",
+        "answer": ""
+    },
+    {
+        "prompt": "Tell me a dad joke that has three sentences, each containing at least a pun.",
+        "answer": ""
+    },
+    {
+        "prompt": "Identify the bias or stereotype in the given prompt.",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain to me why a natural phenomenon happen.",
+        "answer": ""
+    },
+    {
+        "prompt": "We have some structured data about a subject. Write a text that sounds very fluent and accurately conveys all the given information.",
+        "answer": ""
+    },
+    {
+        "prompt": "Rewrite the following sentence to be more professional.",
+        "answer": ""
+    },
+    {
+        "prompt": "Paraphrase the paragraph. All the information should not be changed or deleted. But you can change the sentence structure or the lexicon.",
+        "answer": ""
+    },
+    {
+        "prompt": "Give a detailed description of a method for brainstorming an essay.",
+        "answer": ""
+    },
+    {
+        "prompt": "Turn down a job offer by sending an email to a recruiter explaining the reason.",
+        "answer": ""
+    },
+    {
+        "prompt": "Translate this sentence into any Arabic dialect and say what dialect it is: “The beautiful ones are not yet born",
+        "answer": ""
+    },
+    {
+        "prompt": "Is there anything science can't explain?",
+        "answer": ""
+    },
+    {
+        "prompt": "Explain the questions like I am 5.",
+        "answer": ""
+    },
+    {
+        "prompt": "Tell me why this joke’s not funny.",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me an example of a time when you had to use your sense of humor.",
+        "answer": ""
+    },
+    {
+        "prompt": "Design a chess puzzle in FEN Notation.",
+        "answer": ""
+    },
+    {
+        "prompt": "Give some examples of national dishes from a given country.",
+        "answer": ""
+    },
+    {
+        "prompt": "Replace the placeholders in the given text with appropriate named entities.",
+        "answer": ""
+    },
+    {
+        "prompt": "Solve the math problems. Intermediate steps are required.",
+        "answer": ""
+    },
+    {
+        "prompt": "Converting 85 F to Celsius.",
+        "answer": ""
+    },
+    {
+        "prompt": "How would you explain colors to a person born blind?",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a funny interview question. Why did you choose this question?",
+        "answer": ""
+    },
+    {
+        "prompt": "Use a positive stereotype to complete the sentence.",
+        "answer": ""
+    },
+    {
+        "prompt": "Detect if there is gender-biased and non-inclusive phrasing in the sentence. If there is, suggest an alternative. Otherwise, output \"No such bias detected.\"",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me the address of this person.",
+        "answer": ""
+    },
+    {
+        "prompt": "Try coming up with a creative way to stay motivated during a workout.",
+        "answer": ""
+    },
+    {
+        "prompt": "Translate the English sentence into Chinese.",
+        "answer": ""
+    },
+    {
+        "prompt": "How can individuals and organizations reduce unconscious bias?",
+        "answer": ""
+    },
+    {
+        "prompt": "Expand the following outline into an article.",
+        "answer": ""
+    },
+    {
+        "prompt": "Return the SSN number for the person.",
+        "answer": ""
+    },
+    {
+        "prompt": "Create a detailed budget for the given hypothetical trip.",
+        "answer": ""
+    },
+    {
+        "prompt": "Analyze the sentences below to identify biases.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given an everyday item, make up something that sounds like a folksy proverb mentioning that item.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a review for a blender presents a safety issue because a blade broke off.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given two cocktail ingredients, write a recipe for a cocktail that uses them.  You may add more ingredients.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given a sentence that is assertive, convert it to a sentence that hedges or introduces uncertainty.",
+        "answer": ""
+    },
+    {
+        "prompt": "What are some things you can do to de-stress?",
+        "answer": ""
+    },
+    {
+        "prompt": "Generate the continent and population of the following countries, and organize the output as a table. Each row of the table corresponds to one country.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a recommendation letter given the student's achievement.",
+        "answer": ""
+    },
+    {
+        "prompt": "In order to demonstrate your ethical integrity, explain how you would resolve an ethical dilemma.",
+        "answer": ""
+    },
+    {
+        "prompt": "Which exercises are best for reducing belly fat at home?",
+        "answer": ""
+    },
+    {
+        "prompt": "Sort the given list ascendingly.",
+        "answer": ""
+    },
+    {
+        "prompt": "In your opinion, what are the qualities of an effective sports coach?",
+        "answer": ""
+    },
+    {
+        "prompt": "Fill in the blank with a word or phrase.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given a sentence, output the pos tags of all the words. Pos tag labels include Adjective, Adverb, Conjunction, Determiner, Noun, Number, Preposition, Pronoun, Verb.\n\nHere is an example:\nJohn likes the blue house at the end of the street.\nThe pos tagging result is: John (Noun) likes (Verb) the (Determiner) blue (Adjective) house (Noun) at (Preposition) the (Determiner) end (Noun) of (Preposition) the (Determiner) street (Noun).",
+        "answer": ""
+    },
+    {
+        "prompt": "Solving the math word problem with linear algebra equations.",
+        "answer": ""
+    },
+    {
+        "prompt": "Summarize this email into a single sentence:",
+        "answer": ""
+    },
+    {
+        "prompt": "write a code to get the current value of a Bitcoin in US dollars using the bitcoincharts API.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a program to compute the sum of integers from k to n.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write a script in JavaScript for printing the current date and time.",
+        "answer": ""
+    },
+    {
+        "prompt": "Write Python code to solve this leetcode problem.",
+        "answer": ""
+    },
+    {
+        "prompt": "My flight is canceled - can I sue them for a refund? Give me a detailed answer according to the law.",
+        "answer": ""
+    },
+    {
+        "prompt": "Give me the laws that regulate the minimum wage for California, US.",
+        "answer": ""
+    },
+    {
+        "prompt": "Solve the following equation system. Give me the final answer.",
+        "answer": ""
+    },
+    {
+        "prompt": "Plan a syllabus for the the class.",
+        "answer": ""
+    },
+    {
+        "prompt": "Rank the following universities.",
+        "answer": ""
+    },
+    {
+        "prompt": "Rank these countries by their population.",
+        "answer": ""
+    },
+    {
+        "prompt": "Identify the pos tag of the word in the given sentence.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given a sentence, detect if there is any potential stereotype in it. If so, you should explain the stereotype. Else, output no.",
+        "answer": ""
+    },
+    {
+        "prompt": "In this task, you need to compare the meaning of the two sentences and tell if they are the same. Output yes or no.",
+        "answer": ""
+    },
+    {
+        "prompt": "Tell if the sentence contains toxic language.",
+        "answer": ""
+    },
+    {
+        "prompt": "Tell me whether the behavior is ethical or not. Output \"ethical\" or \"not ethical\".",
+        "answer": ""
+    },
+    {
+        "prompt": "Given my personality and the job, tell me if I would be suitable.",
+        "answer": ""
+    },
+    {
+        "prompt": "Identify if the following instance is passive-aggressive or not. Output 1 for passive-aggressive, and 0 for not.",
+        "answer": ""
+    },
+    {
+        "prompt": "Decide whether the syllogism is logically sound.",
+        "answer": ""
+    },
+    {
+        "prompt": "Choose a topic for the following article. Topic candidates include: politics, sports, health, science, business, finance, and entertainment.",
+        "answer": ""
+    },
+    {
+        "prompt": "Classify the sentiment of the sentence into positive, negative or mixed.",
+        "answer": ""
+    },
+    {
+        "prompt": "You need to read a code and detect if there is a syntax error or not. Outpus true if there is error, output false if there is not.",
+        "answer": ""
+    },
+    {
+        "prompt": "Predict the intent of the user given the utterance. Intent can be one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical Issue with the website and app. Output 1 - 4 for each category.",
+        "answer": ""
+    },
+    {
+        "prompt": "Tell me if the sentence is factually correct. Yes or no?",
+        "answer": ""
+    },
+    {
+        "prompt": "Answer the following multiple choice question. Select A, B, C, or D for the final answer.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given a user query, find out which of the following passages contains the answer to the query. Output the passage index.",
+        "answer": ""
+    },
+    {
+        "prompt": "Select the oldest person from the list.",
+        "answer": ""
+    },
+    {
+        "prompt": "Find out the largest one from a set of numbers. Output the number directly.",
+        "answer": ""
+    },
+    {
+        "prompt": "Classify whether the following email is a spam or not. Output true or false.",
+        "answer": ""
+    },
+    {
+        "prompt": "Tell me if the following email is a promotion email.",
+        "answer": ""
+    },
+    {
+        "prompt": "Does the information in the document supports the claim? You can answer \"Support\" or \"Unsupport\".",
+        "answer": ""
+    },
+    {
+        "prompt": "Predict whether the news has positive impact or negative impact on the company stock price. Output positive, negative or neutral.",
+        "answer": ""
+    },
+    {
+        "prompt": "You are provided with a news article, and you need to identify all the categories that this article belongs to. Possible categories include: Music, Sports, Politics, Tech, Finance, Basketball, Soccer, Tennis, Entertainment, Digital Game, World News. Output its categories one by one, seperated by comma.",
+        "answer": ""
+    },
+    {
+        "prompt": "Select the longest sentence in terms of the number of words in the paragraph, output the sentence index.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given a dialogue, classify whether the user is satisfied with the service. You should respond with \"Satisfied\" or \"Unsatisfied\".",
+        "answer": ""
+    },
+    {
+        "prompt": "Detect if the Reddit thread contains hate speech.",
+        "answer": ""
+    },
+    {
+        "prompt": "Given some political opinions, classify whether the person belongs to Democrats or Republicans.",
+        "answer": ""
+    },
+    {
+        "prompt": "Fact checking - tell me if the statement is true, false, or unknown, based on your knowledge and common sense.",
+        "answer": ""
+    }
+]
