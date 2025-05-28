@@ -65,22 +65,22 @@ pip install -r requirements.txt
 
 -   1. Extract the dataset in the `data/LLM-CL-Benchmark` directory. Our benchmark includes 24 different tasks, a mixing of [TRACE-LLM](https://github.com/BeyonderXX/TRACE) and the datasets used in [O-LoRA](https://github.com/cmnfriend/O-LoRA). Specifically, the tasks are:
 
-    | C-STANCE        |  NumGLUE-cm   |      QQP      |
-    | :-------------- | :-----------: | :-----------: |
-    | **NumGLUE-ds**  |  **MultiRC**  |    **RTE**    |
-    | **yelp**        | **ScienceQA** |  **amazon**   |
-    | **MeetingBank** |   **FOMC**    |   **Lima**    |
-    | **BoolQA**      |    **CB**     |   **Py150**   |
-    | **dbpedia**     |    **WiC**    |   **yahoo**   |
-    | **IMDB**        |   **MNLI**    | **20Minuten** |
-    | **agnews**      |   **COPA**    |   **SST-2**   |
+        | C-STANCE        |  NumGLUE-cm   |      QQP      |
+        | :-------------- | :-----------: | :-----------: |
+        | **NumGLUE-ds**  |  **MultiRC**  |    **RTE**    |
+        | **yelp**        | **ScienceQA** |  **amazon**   |
+        | **MeetingBank** |   **FOMC**    |   **Lima**    |
+        | **BoolQA**      |    **CB**     |   **Py150**   |
+        | **dbpedia**     |    **WiC**    |   **yahoo**   |
+        | **IMDB**        |   **MNLI**    | **20Minuten** |
+        | **agnews**      |   **COPA**    |   **SST-2**   |
 
 -   2. Download the pre-trained model from HuggingFace and place it in the `./PTM/` directory. e.g., for Llama-3.2-1B-Instruct:
 
-    ```bash
-    cd ./PTM
-    git clone https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct
-    ```
+        ```bash
+        cd ./PTM
+        git clone https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct
+        ```
 
 ### 3. Training and Evaluating
 
